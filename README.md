@@ -3,7 +3,7 @@
 <!--
 **moeenali01/moeenali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: I am a passionate blockchain developer 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

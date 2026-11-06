@@ -1,422 +1,197 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030d06,30:071a0b,60:0a2410,100:061508&height=230&section=header&text=MOIN%20SHAHID&fontSize=76&fontColor=e8a825&fontAlignY=42&desc=◈%20Blockchain%20Engineer%20◈%20Solidity%20·%20Rust%20·%20EVM%20·%20Solana&descAlignY=63&descColor=c8d8b0&animation=fadeIn&stroke=e8a825&strokeWidth=1"/>
+<div align="center">
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/banner-light.svg"><img src="assets/bento/banner-dark.svg" width="100%" alt="Moin Shahid — Blockchain Engineer and Smart Contract Security Researcher."></picture>
+
+</div>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/moin-shahid">
-  <img src="https://img.shields.io/badge/◈%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/moeenali01">
-  <img src="https://img.shields.io/badge/◈%20GitHub-0d2210?style=for-the-badge&logo=github&logoColor=e8a825"/>
-</a>
-&nbsp;
-<a href="mailto:moinshahid919@gmail.com">
-  <img src="https://img.shields.io/badge/◈%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/◈%20Lahore%2C%20Pakistan-0a1f0e?style=for-the-badge&logoColor=e8a825&color=0a1f0e"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-145A9D?style=for-the-badge&labelColor=0D1729&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://linkedin.com/in/moin-shahid)
+[![Email](https://img.shields.io/badge/Email-126B78?style=for-the-badge&labelColor=0D1729&logo=gmail&logoColor=white)](mailto:moinshahid919@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5A4DB5?style=for-the-badge&labelColor=0D1729&logo=github&logoColor=white)](https://github.com/moeenali01)
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2800&pause=900&color=E8A825&center=true&vCenter=true&width=720&lines=◈+Smart+Contracts+%7C+DeFi+Protocols+%7C+Oracle+Systems;◈+EVM+Chains+%7C+Solana+Ecosystem+%7C+Layer+2;◈+Merkle+Proofs+%7C+EIPs+%7C+Gasless+Transactions;◈+Building+Secure+%26+Scalable+Decentralized+Systems" alt="Typing SVG"/>
+[![ABOUT](https://img.shields.io/badge/ABOUT-264362?style=flat-square)](#about)
+[![RESEARCH](https://img.shields.io/badge/RESEARCH-264362?style=flat-square)](#security-research)
+[![EXPERIENCE](https://img.shields.io/badge/EXPERIENCE-264362?style=flat-square)](#experience)
+[![PROJECTS](https://img.shields.io/badge/PROJECTS-264362?style=flat-square)](#selected-engineering-work)
+[![TOOLKIT](https://img.shields.io/badge/TOOLKIT-264362?style=flat-square)](#technical-toolkit)
+[![EDUCATION](https://img.shields.io/badge/EDUCATION-264362?style=flat-square)](#education--continuous-learning)
+[![CONTACT](https://img.shields.io/badge/CONTACT-264362?style=flat-square)](mailto:moinshahid919@gmail.com)
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1f0e,50:1a3a1a,100:0a1f0e&height=2&width=100%25"/></div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-01-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-01-light.svg"><img src="assets/bento/section-01-dark.svg" width="100%" alt="Section 01 divider"></picture>
+
+## About
+
+### I build with the failure modes in mind.
+
+I am a **Blockchain Engineer**, working across **EVM and Solana**. I build DeFi and smart contract systems, then examine the assumptions that can fail under adversarial use: accounting, permissions, oracle inputs, and upgrade paths.
+
+At **Webevis Technologies**, I develop Solidity contracts and Foundry test suites for EVM deployments. My Solana work uses **Rust, Anchor, and Bankrun**. I aim for systems whose state transitions are clear, whose privileged actions are narrow, and whose important behaviors are covered by reproducible tests.
+
+**How I work**
+
+- **Design:** define invariants, value flows, and trust boundaries before implementation.
+- **Verify:** test normal flows, edge cases, and adversarial interactions with unit, fuzz, and invariant tests.
+- **Harden:** apply least-privilege access, careful validation, reentrancy protection, and gas-conscious architecture.
+
+<details>
+<summary><b>View my profile as Solidity and Rust</b></summary>
 
 <br/>
 
-<!---------------------------------------------------------------------------->
-<!--                              ABOUT ME                                  -->
-<!---------------------------------------------------------------------------->
+<p><img src="https://img.shields.io/badge/whoami.sol-about_me-145A9D?style=for-the-badge&labelColor=0D1729&logo=solidity&logoColor=white" alt="whoami.sol - about me, written in Solidity" /></p>
 
-<table>
-<tr>
-<td width="56%" valign="top">
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
 
-### `> whoami`
+/// @title whoami
+/// @author Moin Shahid
+contract MoinShahid {
+    string public constant NAME = "Moin Shahid";
+    string public constant ROLE = "Blockchain Engineer";
+    string public constant FOCUS = "Smart contract security";
+    string public constant COMPANY = "Webevis Technologies";
+    string public constant BASED_IN = "Lahore, Pakistan";
+    string public constant DEGREE = "BS Information Technology";
+    string public constant MOTTO = "Build. Break. Harden.";
+
+    function chains() external pure returns (string[2] memory) {
+        return ["EVM", "Solana"];
+    }
+
+    function languages() external pure returns (string[3] memory) {
+        return ["Solidity", "Rust", "JavaScript"];
+    }
+
+    function contact() external pure returns (string memory) {
+        return "moinshahid919@gmail.com";
+    }
+}
+```
+
+<p><img src="https://img.shields.io/badge/profile.rs-status_%2B_core__stack-145A9D?style=for-the-badge&labelColor=0D1729&logo=rust&logoColor=white" alt="profile.rs - Solana program with status and core_stack instructions" /></p>
 
 ```rust
 use anchor_lang::prelude::*;
 
-#[account]
-pub struct MoinShahid {
-    pub name:     &'static str,
-    pub role:     &'static str,
-    pub company:  &'static str,
-    pub location: &'static str,
-    pub chains:   Vec<&'static str>,
-    pub focus:    Vec<&'static str>,
-}
+declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
-impl MoinShahid {
-    pub fn init() -> Self {
-        Self {
-            name:     "Moin Shahid",
-            role:     "Blockchain Engineer",
-            company:  "Webevis Technologies",
-            location: "Lahore, Pakistan",
-            chains: vec![
-                "Ethereum", "Solana",
-                "EVM Chains", "Layer 2",
-            ],
-            focus: vec![
-                "DeFi Protocols",   "Oracle Systems",
-                "Smart Contracts",  "Gasless Transactions",
-                "Merkle Proofs",    "EIP Standards",
-            ],
-        }
+#[program]
+pub mod profile {
+    use super::*;
+
+    pub fn status(_ctx: Context<Show>) -> Result<()> {
+        msg!("Now: Webevis Technologies");
+        msg!("Chains: EVM + Solana");
+        msg!("Findings: 3 High, 2 Medium, 1 Low");
+        Ok(())
     }
 
-    pub fn mission(&self) -> &str {
-        "Secure, scalable, decentralized."
+    pub fn core_stack(_ctx: Context<Show>) -> Result<()> {
+        msg!("EVM: Solidity, Foundry");
+        msg!("Solana: Rust, Anchor, Bankrun");
+        msg!("Oracles: Chainlink, Pyth, TWAP");
+        Ok(())
     }
 }
+
+#[derive(Accounts)]
+pub struct Show {}
 ```
 
-</td>
-<td width="44%" valign="top">
+<sub>Yes, it compiles. &nbsp;<code>solc 0.8.30</code> · zero warnings &nbsp;·&nbsp; <code>anchor&#8209;lang 1.2.2</code> · clippy clean.</sub>
 
-### `> status`
+</details>
 
-```yaml
-🟢  At          : Webevis Technologies
-🟡  Role        : Blockchain Developer
-🟣  Ecosystems  : EVM + Solana
-⚡  Specialty   : DeFi & Oracle Systems
-🔐  Approach    : Security-First Architecture
-📍  Location    : Lahore, Punjab, PK
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-02-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-02-light.svg"><img src="assets/bento/section-02-dark.svg" width="100%" alt="Section 02 divider"></picture>
 
-<br/>
+## Security Research
 
-### `> core_stack`
-
-```toml
-[languages]
-solidity   = "Smart Contracts / EVM / EIPs"
-rust       = "Solana Programs / Systems"
-javascript = "dApp Integration / Web3"
-
-[frameworks]
-anchor     = "Solana Programs"
-foundry    = "EVM Testing & Deployment"
-open_zeppelin = "Contract Standards"
-
-[oracles]
-chainlink  = "Ethereum Price Feeds"
-pyth       = "Solana Price Feeds"
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!---------------------------------------------------------------------------->
-<!--                       PROGRAMMING LANGUAGES                            -->
-<!---------------------------------------------------------------------------->
+My research focuses on protocol correctness, economic and accounting invariants, authorization boundaries, upgrade safety, oracle integrity, and reproducible proof-of-concept testing.
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║           ◈   PROGRAMMING   LANGUAGES   ◈                 ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=solidity,rust,js&theme=dark&perline=3"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<th align="center">Language</th>
-<th align="left">Domain</th>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Solidity-1a3a1a?style=flat-square&logo=solidity&logoColor=e8a825"/>
-  &nbsp;<b>Solidity</b>
-</td>
-<td>EVM Smart Contracts &nbsp;·&nbsp; DeFi Protocols &nbsp;·&nbsp; EIP Standards</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Rust-1a1a0a?style=flat-square&logo=rust&logoColor=e8a825"/>
-  &nbsp;<b>Rust</b>
-</td>
-<td>Solana Programs &nbsp;·&nbsp; Anchor Framework &nbsp;·&nbsp; Systems Programming</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1a1a0a?style=flat-square&logo=javascript&logoColor=e8a825"/>
-  &nbsp;<b>JavaScript</b>
-</td>
-<td>dApp Integration &nbsp;·&nbsp; Web3 Libraries &nbsp;·&nbsp; Tooling</td>
-</tr>
-</table>
+<a href="#security-research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/audit-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/audit-1-light.svg"><img src="assets/bento/audit-1-dark.svg" width="414" alt="RAIN-USDR Smart Contract Audit, HackenProof · Sep 2026: 2 HIGH, 1 MEDIUM. Confirmed."></picture></a>
+<a href="#security-research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/audit-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/audit-2-light.svg"><img src="assets/bento/audit-2-dark.svg" width="414" alt="Firelight, Immunefi: 1 HIGH. Confirmed."></picture></a>
+<a href="#security-research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/audit-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/audit-3-light.svg"><img src="assets/bento/audit-3-dark.svg" width="414" alt="BattleChain Confidence Pools, CodeHawks: 1 MEDIUM, 1 LOW. Confirmed."></picture></a>
+<a href="#security-research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/record-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/record-light.svg"><img src="assets/bento/record-dark.svg" width="414" alt="Research record: 6 confirmed findings across public smart contract audit contests - 3 High, 2 Medium, and 1 Low - backed by reproducible proof-of-concept tests."></picture></a>
 
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-03-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-03-light.svg"><img src="assets/bento/section-03-dark.svg" width="100%" alt="Section 03 divider"></picture>
 
-<!---------------------------------------------------------------------------->
-<!--                      BLOCKCHAIN TECHNOLOGIES                           -->
-<!---------------------------------------------------------------------------->
+## Experience
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║           ◈   BLOCKCHAIN   TECHNOLOGIES   ◈               ║
-╚════════════════════════════════════════════════════════════╝
-```
+<a href="#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/exp-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/exp-1-light.svg"><img src="assets/bento/exp-1-dark.svg" width="414" alt="Blockchain Developer, Webevis Technologies, Jan 2025 - Present. Develop and deploy secure, gas-optimized Solidity smart contracts across EVM chains. Build comprehensive Foundry test suites with strong coverage to surface vulnerabilities before deployment. Apply access control, reentrancy protection, validation, and upgrade-safety patterns throughout the development lifecycle. Collaborate with frontend engineers and product teams to deliver reliable end-to-end blockchain integrations. Solidity, Foundry, Access control, Reentrancy protection, Upgrade safety."></picture></a>
+<a href="#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/exp-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/exp-2-light.svg"><img src="assets/bento/exp-2-dark.svg" width="414" alt="Blockchain Developer Intern, Dafi Labs, Sep 2024 - Dec 2024. Engineered multi-node blockchain infrastructure with Geth and GoQuorum using Raft and Proof-of-Work consensus. Built a custom block explorer for real-time visibility into blocks, transactions, and network activity. Developed and tested smart contracts across EVM-compatible networks using industry-standard security practices. Geth, GoQuorum, Raft, Proof-of-Work, Block explorer."></picture></a>
 
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-04-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-04-light.svg"><img src="assets/bento/section-04-dark.svg" width="100%" alt="Section 04 divider"></picture>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### ⬡ &nbsp;Chains & Ecosystems
-
-![Ethereum](https://img.shields.io/badge/Ethereum-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=e8a825)
-![Solana](https://img.shields.io/badge/Solana-0d1a2a?style=for-the-badge&logo=solana&logoColor=9945FF)
-![EVM](https://img.shields.io/badge/EVM_Chains-0a1f0e?style=for-the-badge&logoColor=e8a825)
-![Layer2](https://img.shields.io/badge/Layer_2_Solutions-1a0a2e?style=for-the-badge&logoColor=white)
-
-<br/>
-
-#### ⬡ &nbsp;DeFi & Finance Primitives
-
-![DeFi](https://img.shields.io/badge/DeFi_Protocols-0a1f0e?style=for-the-badge&logoColor=e8a825)
-![Stablecoins](https://img.shields.io/badge/Algorithmic_Stablecoins-0a2010?style=for-the-badge&logoColor=c8d8b0)
-![Oracles](https://img.shields.io/badge/Oracle_Systems-1f1500?style=for-the-badge&logoColor=e8a825)
-![TWAP](https://img.shields.io/badge/TWAP_Mechanisms-1a0a0a?style=for-the-badge&logoColor=f59e0b)
-![Liquidations](https://img.shields.io/badge/Liquidation_Engines-200808?style=for-the-badge&logoColor=f87171)
-![Vesting](https://img.shields.io/badge/Token_Vesting-0d200d?style=for-the-badge&logoColor=e8a825)
-
-<br/>
-
-#### ⬡ &nbsp;Token Standards & Governance
-
-![ERC20](https://img.shields.io/badge/ERC--20-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=e8a825)
-![ERC721](https://img.shields.io/badge/ERC--721_NFTs-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=e8a825)
-![ERC1155](https://img.shields.io/badge/ERC--1155-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=e8a825)
-![DAOs](https://img.shields.io/badge/DAOs_%26_Governance-1a0d2e?style=for-the-badge&logoColor=c084fc)
-![MultiSig](https://img.shields.io/badge/Multi--Sig_Wallets-0d1a1a?style=for-the-badge&logoColor=c8d8b0)
-
-</td>
-<td width="50%" valign="top">
-
-#### ⬡ &nbsp;EIP Standards
-
-![EIP712](https://img.shields.io/badge/EIP--712_Typed_Signing-1f1500?style=for-the-badge&logoColor=e8a825)
-![EIP2612](https://img.shields.io/badge/EIP--2612_Permit-1a1000?style=for-the-badge&logoColor=f0c060)
-![EIP1271](https://img.shields.io/badge/EIP--1271_Contract_Sigs-1a0a0a?style=for-the-badge&logoColor=fca5a5)
-![EIP1967](https://img.shields.io/badge/EIP--1967_Proxy_Storage-180808?style=for-the-badge&logoColor=f87171)
-![EIP4337](https://img.shields.io/badge/EIP--4337_Account_Abstraction-1a0d2e?style=for-the-badge&logoColor=c084fc)
-![EIP2771](https://img.shields.io/badge/EIP--2771_Trusted_Forwarder-0a1f0e?style=for-the-badge&logoColor=86efac)
-
-<br/>
-
-#### ⬡ &nbsp;Cryptographic Primitives
-
-![MerkleProofs](https://img.shields.io/badge/Merkle_Proofs-0d200d?style=for-the-badge&logoColor=e8a825)
-![SigVerification](https://img.shields.io/badge/Signature_Verification-0a1a10?style=for-the-badge&logoColor=e8a825)
-![ECDSA](https://img.shields.io/badge/ECDSA_%2F_secp256k1-0a1510?style=for-the-badge&logoColor=c8d8b0)
-![Keccak](https://img.shields.io/badge/Keccak256_Hashing-111a11?style=for-the-badge&logoColor=c8d8b0)
-![CommitReveal](https://img.shields.io/badge/Commit--Reveal_Schemes-1a0d2e?style=for-the-badge&logoColor=c084fc)
-
-<br/>
-
-#### ⬡ &nbsp;Gasless Transactions
-
-![Gasless](https://img.shields.io/badge/Gasless_Transactions-0a1f0e?style=for-the-badge&logoColor=86efac)
-![MetaTx](https://img.shields.io/badge/Meta--Transactions-0a1a0e?style=for-the-badge&logoColor=86efac)
-![Relayers](https://img.shields.io/badge/Relayer_Architecture-0d200d?style=for-the-badge&logoColor=c8d8b0)
-![Forwarders](https://img.shields.io/badge/Trusted_Forwarders-0a1f0e?style=for-the-badge&logoColor=86efac)
-![Permit](https://img.shields.io/badge/Permit_Signatures-1f1500?style=for-the-badge&logoColor=e8a825)
-
-</td>
-</tr>
-</table>
-
-<br/>
+## Selected Engineering Work
 
 <div align="center">
 
-> `Stake-Weighted Aggregation` &nbsp;·&nbsp; `Over-Collateralization Logic` &nbsp;·&nbsp; `Cross-Chain Price Feeds` &nbsp;·&nbsp; `Permissioned Consensus` &nbsp;·&nbsp; `O(1) On-chain Storage`
+<a href="#selected-engineering-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/project-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/project-1-light.svg"><img src="assets/bento/project-1-dark.svg" width="414" alt="EdgeMarket.ai. Decentralized Prediction Market, BSC Mainnet. Developed and deployed a decentralized prediction market that supports market creation, positions, and outcome resolution. Implemented secure result validation, automated payout distribution, and incentive mechanisms for reliable settlement."></picture></a>
+<a href="#selected-engineering-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/project-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/project-2-light.svg"><img src="assets/bento/project-2-dark.svg" width="414" alt="Meme Curve Launch. Upgradeable Token Launch Protocol, EIP-2535 Diamond. Built a modular token-launch and trading protocol with dedicated facets for token creation, fees, views, pausing, and upgrades. Implemented reserve-based bonding-curve trading with virtual liquidity, slippage protection, configurable fees, reentrancy guards, and internal pool accounting."></picture></a>
+<a href="#selected-engineering-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/project-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/project-3-light.svg"><img src="assets/bento/project-3-dark.svg" width="414" alt="Merkle Vesting Protocol. Solana, Rust + Anchor. Designed a scalable vesting system supporting thousands of allocations while storing a single Merkle root on-chain. Implemented linear vesting, cliffs, rate-limited and revocable claims, and M-of-N governance for privileged operations."></picture></a>
+<a href="#selected-engineering-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/project-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/project-4-light.svg"><img src="assets/bento/project-4-dark.svg" width="414" alt="Decentralized Oracle with TWAP. Solana, Rust + Anchor. Architected a stake-weighted median oracle with confidence intervals for manipulation-resistant price feeds. Implemented TWAP-based price discovery to reduce flash-loan and short-window manipulation risk."></picture></a>
+<a href="#selected-engineering-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/project-5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/project-5-light.svg"><img src="assets/bento/project-5-dark.svg" width="414" alt="Multi-Chain Algorithmic Stablecoin. Ethereum + Solana, Over-collateralized. Architected an over-collateralized stablecoin system spanning Ethereum and Solana with WETH, WBTC, and SOL collateral. Integrated Chainlink and Pyth feeds with health-factor monitoring, efficient mint and burn flows, and strict collateral controls."></picture></a>
+<a href="#selected-engineering-work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/project-legend-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/project-legend-light.svg"><img src="assets/bento/project-legend-dark.svg" width="414" alt="5 systems showcased: 2 EVM, 2 Solana, 1 multi-chain. The chip on each tile shows the ecosystem."></picture></a>
 
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-05-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-05-light.svg"><img src="assets/bento/section-05-dark.svg" width="100%" alt="Section 05 divider"></picture>
 
-<!---------------------------------------------------------------------------->
-<!--                        TOOLS & FRAMEWORKS                              -->
-<!---------------------------------------------------------------------------->
+## Technical Toolkit
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║             ◈   TOOLS   &   FRAMEWORKS   ◈                ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<table>
-<tr>
-<th align="center">⚗️&nbsp; Testing & Dev</th>
-<th align="center">🏗️&nbsp; Frameworks</th>
-<th align="center">🌐&nbsp; Web3 Libraries</th>
-<th align="center">🔧&nbsp; Infrastructure</th>
-</tr>
-<tr>
-<td align="center">
-
-![Foundry](https://img.shields.io/badge/Foundry-1f0e00?style=flat-square&logoColor=e8a825)
-![Bankrun](https://img.shields.io/badge/Bankrun-0d1a2a?style=flat-square&logoColor=9945FF)
-![Remix](https://img.shields.io/badge/Remix_IDE-111?style=flat-square&logoColor=c8d8b0)
-![Ganache](https://img.shields.io/badge/Ganache-1a0e00?style=flat-square&logoColor=f59e0b)
-
-</td>
-<td align="center">
-
-![Anchor](https://img.shields.io/badge/Anchor-0d1a2a?style=flat-square&logo=solana&logoColor=9945FF)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-0a0f2e?style=flat-square&logoColor=c084fc)
-![Chainlink](https://img.shields.io/badge/Chainlink-0a1020?style=flat-square&logo=chainlink&logoColor=375BD2)
-![Pyth](https://img.shields.io/badge/Pyth_Network-0d1a2a?style=flat-square&logoColor=9945FF)
-
-</td>
-<td align="center">
-
-![Ethers](https://img.shields.io/badge/Ethers.js-0a0f20?style=flat-square&logoColor=c8d8b0)
-![Web3](https://img.shields.io/badge/Web3.js-1a0e00?style=flat-square&logoColor=f59e0b)
-![IPFS](https://img.shields.io/badge/IPFS-0a1a1a?style=flat-square&logo=ipfs&logoColor=65C2CB)
-
-</td>
-<td align="center">
-
-![Geth](https://img.shields.io/badge/Geth-1a1a1a?style=flat-square&logo=ethereum&logoColor=e8a825)
-![Quorum](https://img.shields.io/badge/Go_Quorum-0a1f0e?style=flat-square&logoColor=86efac)
-![Raft](https://img.shields.io/badge/Raft_Consensus-0a1a0e?style=flat-square&logoColor=86efac)
-![PoW](https://img.shields.io/badge/PoW_Consensus-1f1500?style=flat-square&logoColor=e8a825)
-
-</td>
-</tr>
-</table>
+<a href="#technical-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/tool-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/tool-1-light.svg"><img src="assets/bento/tool-1-dark.svg" width="414" alt="Languages & Web3 integration: Solidity, Rust, JavaScript, Ethers.js, Web3.js, IPFS"></picture></a>
+<a href="#technical-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/tool-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/tool-2-light.svg"><img src="assets/bento/tool-2-dark.svg" width="414" alt="Frameworks & testing: Foundry, Anchor, OpenZeppelin, Bankrun, Remix"></picture></a>
+<a href="#technical-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/tool-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/tool-3-light.svg"><img src="assets/bento/tool-3-dark.svg" width="414" alt="Chains & infrastructure: Ethereum, Solana, BNB Chain, Arbitrum, Optimism, Geth, GoQuorum"></picture></a>
+<a href="#technical-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/tool-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/tool-4-light.svg"><img src="assets/bento/tool-4-dark.svg" width="414" alt="Oracle systems: Chainlink, Pyth, TWAP, Stake-weighted aggregation"></picture></a>
+<a href="#technical-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/tool-5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/tool-5-light.svg"><img src="assets/bento/tool-5-dark.svg" width="414" alt="Smart contract standards: ERC-20, ERC-721, ERC-1155, ERC-4626, EIP-712, EIP-2612, EIP-2535, EIP-4337"></picture></a>
+<a href="#technical-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/tool-6-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/tool-6-light.svg"><img src="assets/bento/tool-6-dark.svg" width="414" alt="Security & architecture: Access control, Reentrancy protection, Upgrade safety, Invariant testing, Merkle proofs, Meta-transactions, Account abstraction"></picture></a>
 
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-06-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-06-light.svg"><img src="assets/bento/section-06-dark.svg" width="100%" alt="Section 06 divider"></picture>
 
-<!---------------------------------------------------------------------------->
-<!--                         WORK EXPERIENCE                                -->
-<!---------------------------------------------------------------------------->
+## Education & Continuous Learning
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║               ◈   WORK   EXPERIENCE   ◈                   ║
-╚════════════════════════════════════════════════════════════╝
-```
+<a href="#education--continuous-learning"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/edu-degree-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/edu-degree-light.svg"><img src="assets/bento/edu-degree-dark.svg" width="414" alt="Bachelor of Science in Information Technology, National Textile University · Faisalabad, Pakistan, Sep 2020 - Jul 2024"></picture></a>
+<a href="#education--continuous-learning"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/edu-courses-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/edu-courses-light.svg"><img src="assets/bento/edu-courses-dark.svg" width="414" alt="Solana Developer Bootcamp (2024). Advanced Foundry - Cyfrin Updraft. Ethereum Developer Bootcamp - Udemy. Ultimate Rust Crash Course - Udemy"></picture></a>
 
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/section-07-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/section-07-light.svg"><img src="assets/bento/section-07-dark.svg" width="100%" alt="Section 07 divider"></picture>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🏢 &nbsp;Webevis Technologies
-**`Blockchain Developer`** &nbsp;·&nbsp; ![](https://img.shields.io/badge/Dec_2024_–_Present-0d200d?style=flat-square&logoColor=e8a825)
-
-<br/>
-
-```
-▸  Smart contract development & deployment
-   on EVM chains using Solidity
-
-▸  Security-first: reentrancy guards, access
-   control, gas optimization throughout
-
-▸  Comprehensive Foundry test suites to
-   surface vulnerabilities pre-deployment
-
-▸  Frontend collaboration to integrate
-   blockchain functionality end-to-end
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏢 &nbsp;Dafi Labs
-**`Blockchain Developer Intern`** &nbsp;·&nbsp; ![](https://img.shields.io/badge/Sep_–_Dec_2024-1a0d2e?style=flat-square&logoColor=c084fc)
-
-<br/>
-
-```
-▸  Multi-node private blockchain on Geth
-   & Go Quorum (Raft + PoW consensus)
-
-▸  Smart contract development & testing
-   across EVM-based blockchains
-
-▸  Built custom block explorer for real-time
-   block & transaction visibility
-
-▸  Deepened expertise in consensus design
-   and distributed systems architecture
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!---------------------------------------------------------------------------->
-<!--                              CONNECT                                   -->
-<!---------------------------------------------------------------------------->
+## What I Bring
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                   ◈   CONNECT   ◈                         ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<a href="https://linkedin.com/in/moin-shahid">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:moinshahid919@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/moeenali01">
-  <img src="https://img.shields.io/badge/GitHub-Follow-1a1a1a?style=for-the-badge&logo=github&logoColor=e8a825"/>
-</a>
+<a href="mailto:moinshahid919@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/bring-build-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/bring-build-light.svg"><img src="assets/bento/bring-build-dark.svg" width="272" alt="BUILD: Smart contracts and protocol infrastructure across EVM and Solana"></picture></a>
+<a href="mailto:moinshahid919@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/bring-break-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/bring-break-light.svg"><img src="assets/bento/bring-break-dark.svg" width="272" alt="BREAK: Adversarial review, invariant analysis, and reproducible exploit tests"></picture></a>
+<a href="mailto:moinshahid919@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento/bring-harden-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/bento/bring-harden-light.svg"><img src="assets/bento/bring-harden-dark.svg" width="272" alt="HARDEN: Secure architecture, robust testing, and production-ready integrations"></picture></a>
 
 </div>
 
-<br/>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061508,30:0a2410,60:071a0b,100:030d06&height=130&section=footer&text=◈%20Decentralizing%20the%20Future%20◈&fontSize=20&fontColor=e8a825&fontAlignY=65&animation=fadeIn"/>
+### Let's build protocols that are difficult to break.
+
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-126B78?style=for-the-badge&labelColor=0D1729&logo=gmail&logoColor=white)](mailto:moinshahid919@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-145A9D?style=for-the-badge&labelColor=0D1729&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://linkedin.com/in/moin-shahid)
+
+</div>
